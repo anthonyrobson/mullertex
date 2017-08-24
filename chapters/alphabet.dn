@@ -85,3 +85,190 @@ till they know them well and can write them fluently and correctly.
 
 \s The following are the sounds which are represented in the Devanāgarī
 alphabet:
+
+% TODO right curly brackets in diphthong column
+\begin{widepage}
+  \begin{tabular}{p{1.6cm}C{1.1cm}C{1.5cm}C{1.1cm}C{1.5cm}C{0.9cm}C{1.1cm}C{1.3cm}C{1cm}C{1cm}C{0.9cm}C{1.1cm}}
+    \toprule
+    & \footnotesize{Hard (\emph{tenues})} & \footnotesize{Hard and
+      aspirated (\emph{tenues aspiratæ})} & \footnotesize{Soft
+      (\emph{mediæ})} & \footnotesize{Soft and aspirated (\emph{mediæ
+        aspiratæ})} & \footnotesize{Nasal} & \footnotesize{Liquid} &
+    \footnotesize{Sibilant} & \multicolumn{2}{c}{\footnotesize{Vowel}} &
+    \multicolumn{2}{c}{\footnotesize{Diphthong}}\\
+    & & & & & & & & \footnotesize{Short} & \footnotesize{Long}\\
+    \midrule
+    Gutturals & $ka$ \tl{k} & $kha$ \tl{kh} & $ga$ \tl{g} & $gha$
+    \tl{gh} & $"na$ \tl{ṅ} & $ha$ \tl{h}\footnotemark[2] & X\footnotemark[4]
+    (\tl{X}) & $a$ \tl{a} & $aa$ \tl{ā} & $e$ \tl{e} & $ai$ \tl{āi}\\
+    Palatals & $ca$ \tl{c} & $cha$ \tl{ch} & $ja$ \tl{j} & $jha$ \tl{jh} &
+    $~na$ \tl{ñ} & $ya$ \tl{y} & $"sa$ \tl{ś} & $i$ \tl{i} & $ii$ \tl{ī}\\
+    Linguals & $.ta$ \tl{ṭ} & $.tha$ \tl{ṭh} & $.da$ \tl{ḍ}\footnotemark[1] & $.dha$
+    \tl{ḍh}\footnotemark[1] & $.na$ \tl{ṇ} & $ra$ \tl{r} & $.sa$ \tl{ṣ} &
+    $.r$ \tl{ṛ} & $.R$ \tl{\d{\={r}}} & $o$ \tl{o} & $au$ \tl{au}\\
+    Dentals & $ta$ \tl{t} & $tha$ \tl{th} & $da$ \tl{d} & $dha$ \tl{dha} &
+    $na$ \tl{na} & $la$ \tl{l} & $sa$ \tl{s} & $.l$ \tl{ḷ} & ($.L$
+    \tl{\d{\={l}}})\\
+    Labials & $pa$ \tl{p} & $pha$ \tl{ph} & $ba$ \tl{b} & $bha$ \tl{bh} &
+    $ma$ \tl{m} & $va$ \tl{v}\footnotemark[3] & X\footnotemark[4] \tl{X}
+    & $u$ \tl{u} & $uu$ \tl{ū}\\
+    \bottomrule
+  \end{tabular}
+\end{widepage}
+
+\footnotetext[1]{In the Veda $.da$ \tl{ḍ} and $.dha$ \tl{ḍh}, if between
+  two vowels, are in certain schools written $La$ \tl{ḷ} and $Lha$ \tl{ḷh}.}
+\footnotetext[2]{$ha$ \tl{h} is not properly a liquid, but a soft
+  breathing.}
+\footnotetext[3]{$va$ \tl{v} is sometimes called \emph{dento-labial}.}
+\footnotetext[4]{The signs for the guttural and labial sibilants have
+  become obsolete, and are replaced by the two dots $.h$ \tl{ḥ}.}
+
+Unmodified nasal or \tl{anusvāra}, $-.m$ \tl{ṁ} or $/$ \tl{X}.
+
+Unmodified sibilant or \tl{visarga}, $.h$ \tl{ḥ}.
+
+Students should be cautioned against using the Roman letters instead of
+the Devanāgarī when beginning to learn Sanskrit. The paradigms should be
+impressed on the memory in their real and native form, otherwise their
+first impressions will become unsettled and indistinct. After some
+progress has been made in mastering the grammar and in reading Sanskrit,
+the Roman alphabet may be used safely and with advantage.
+
+\s There are fifty letters in the Devanāgarī alphabet: thirty-seven
+consonants and thirteen vowels, representing every sound of the Sanskrit
+language.
+
+\s One letter, the long $.L$ \tl{\d{\={l}}}, is merely a grammatical
+invention; it never occurs in the spoken language.
+
+\s Two sounds, the guttural and labial sibilants, are now without
+distinctive representatives in the Devanāgarī alphabet. They are called
+\tl{jihāmūlīya}, the tongue-root sibilant, formed near the base of the
+tongue; and \tl{upadhmānīya}, i.e. \emph{afflandus}, the labial
+sibilant. They are said to have been represented by the signs XXX
+(called \tl{vajrākṛti}, having the shape of the thunderbolt) and XXX
+(called \tl{gajakumbhākṛti}, having the shape of an elephant's two
+frontal bones). (See Vopadeva's \emph{Sanskrit Grammar}, i 18;
+\emph{History of Ancient Sanskrit Literature}, p. 508.) Sometimes the
+sign XXX, called \tl{ardhavisarga}, \eng{half-visarga}, is used for
+both. But in common writing these two signs are now replaced by the two
+dots, the \tl{dvivindu}, $.h$, (\tl{dvi}, two, \tl{vindu}, dot) properly
+the sign of the unmodified visarga.
+
+\s There are five distinct letters for the five nasals, $"n&$ \tl{ṅ},
+$~n&$ \tl{ñ}, $.n&$ \tl{ṇ}, $n&$ \tl{n}, $m&$ \tl{m}, as there were
+originally five distinct signs for the five sibilants. When, in the
+middle of words, these nasals are followed by consonants of their own
+class, (\tl{ṅ} by \tl{k}, \tl{kh}, \tl{g}, \tl{gh}; \tl{ñ} by \tl{c},
+\tl{ch}, \tl{j}, \tl{jh}; \tl{ṇ} by \tl{ṭ}, \tl{ṭh}, \tl{ḍ}, \tl{ḍh};
+\tl{n} by \tl{t}, \tl{th}, \tl{d}, \tl{dh}; \tl{m} by \tl{p}, \tl{ph},
+\tl{b}, \tl{bh},) they are often, for the sake of more expeditious
+writing, replaced by the dot, which is properly the sign of the
+unmodified nasal or anusvāra. Thus we find
+
+\begin{quote}
+  $a.mkitaa$ instead of $a.nkitaa$ \tl{aṅkitā}\\
+  $a.mcitaa$ instead of $a~ncitaa$ \tl{añcitā}\\
+  $ku.m.ditaa$ instead of $ku.n.ditaa$ \tl{kuṇḍitā}\\
+  $na.mditaa$ instead of $nanditaa$ \tl{nanditā}\\
+  $ka.mpitaa$ instead of $kampitaa$ \tl{kampitā}\\
+\end{quote}
+
+The pronunciation remains unaffected by this style of writing.
+$a.mkitaa$ must be pronounced as if it were written $a.nkitaa$
+\tl{aṅkitā}, \&c.
+
+The same applies to final $m&$ \tl{m} at the end of a sentence. This
+too, though frequently written and printed with the dot above the line,
+is to be pronounced as \tl{m}. $aha.m$, \eng{I}, is to be pronounced
+like $aham&$ \tl{aham}. (See preface to \emph{Hitopadeśa}, in M.\ M.'s
+\emph{Handbooks for the Study of Sanskrit}, p. viii.)
+
+% TODO finish sanskrit quote
+\begin{note}
+  Note—According to the Kaumāras final $m&$ \tl{m} \emph{in pausā} may
+  be pronounced as anusvāra; cf. \emph{Sārasvatīprakriyā}, ed. Bombay,
+  1829,\footnote{This edition, which has lately been reprinted, contains
+    the text—ascribed either to Vāṇī herself, i.e. Sarasvatī, the
+    goddess of speech (MS Bodl. 386), or to Anubhūti-svarūpa-āchārya,
+    whoever that may be—and a commentary. The commentary printed in the
+    Bombay editions is called $mahiigharii$, or in MS Bodl. 382
+    $maidaasii$, i.e. $mahiidaasii$. In MS Bodl. 382 Mahīdhara or
+    Mahīdāsabhaṭṭa is said to have written the \emph{Sārasvata} in order
+    that his children might read it, and to please Īśa, \eng{the Lord}.
+    The date given is 1634, the place Benares, (Śivarājadhanī.)} pp. 12
+  and 13. $kaumaaraa$ The Kaumāras are the followers of Kumāra, the reputed
+  author of the Kātantra or Kalāpa grammar. (See Colebrooke,
+  \emph{Sanskrit Grammar}, preface; and page 315, note.) Śarvavarman is
+  sometimes quoted by mistake as the author of this grammar, and an
+  unnecessary distinction is made between the Kaumāras and the followers
+  of the Kalāpa grammar.
+\end{note}
+
+\s Besides the five nasal letters, expressing the nasal sound as
+modified by guttural, palatal, lingual, dental, and labial
+pronunciation, there are still three nasalized letters, the $y/$,
+$l/$, $v/$, or $y.m$, $l.m$, $v.m$, XXX, XXX, XXX, which are used to
+represent a final $m&$ \tl{m}, if followed by an initial $y&$ \tl{y},
+$l&$ \tl{l}, $v&$ \tl{v}, and modified by the pronunciation of these
+three semivowels.
+
+% TODO not correct sanskrit
+\begin{tabbing}
+  Thus \=instead of $ta.m yaati$ \tl{taṁ yāti} we may write $tayy/aati$
+  \tl{XXX};\\
+  \>instead of $ta.m labhate$ \tl{taṁ labhate} we may write
+  $tall/abhate$ \tl{XXX};\\
+  \>instead of $ta.m vahati$ \tl{taṁ vahati} we may write $tavv/ahati$
+  \tl{XXX}.\\
+\end{tabbing}
+
+\noindent Or in composition,
+
+% TODO not correct sanskrit
+\begin{quote}
+  $sa.myaana.m$ \tl{saṁyānaṁ} or $sayy/aana.m$ \tl{XXX};\\
+  $sa.mlabdha.m$ \tl{saṁlabdhaṁ} or $sall/abdha.m$ \tl{XXX};\\
+  $sa.mvahati$ \tl{saṁvahati} or $savv/ahati$ \tl{XXX}.\\
+\end{quote}
+
+\s The only consonants which have no corresponding nasals are $r&$
+\tl{r}, $"s&$ \tl{ś}, $.s&$ \tl{ṣ}, $s&$ \tl{s}, $h&$ \tl{h}. A final
+$m&$ \tl{m}, therefore, before any of these letters at the beginning of
+words can only be represented by the neutral or unmodified nasal, the
+anusvāra.
+
+\begin{tabbing}
+  \hspace*{1cm}\=$ta.m rak.sati$ \tl{taṁ rakṣati}.\hspace*{1cm}Or in
+  composition, \=$sa.mrak.sati$ \tl{saṁrakṣati}.\\
+  \>$ta.m "s.r.noti$ \tl{taṁ śṛṇoti}. \>$sa.m"s.r.noti$ \tl{saṁśṛṇoti}.\\
+  \>$ta.m .sakaara.m$ \tl{taṁ ṣakāraṁ}. \>$sa.m.s.thiivati$
+  \tl{saṁṣṭhīvati}.\\
+  \>$ta.m sarati$ \tl{taṁ sarati}. \> $sa.msarati$ \tl{saṁsarati}.\\
+  \>$ta.m harati$ \tl{taṁ harati}. \> $sa.mharati$ \tl{saṁharati}.\\
+\end{tabbing}
+
+\s In the body of a word the only letters which can be preceded by
+anusvāra are $"s&$ \tl{ś}, $.s&$ \tl{ṣ}, $s&$ \tl{s}, $h&$ \tl{h}. Thus
+$a.m"sa.h$ \tl{aṁśaḥ}, $dhanuu.m.si$ \tl{dhanūṁṣi}, $ya"saa.msi$
+\tl{yaśāṁsi}, $si.mha.h$ \tl{siṁhaḥ}. Before the semivowels $y&$ \tl{y},
+$r&$ \tl{r}, $l&$ \tl{l}, $v&$ \tl{v}, the $m&$ \tl{m} in the body of a
+word is never changed into anusvāra. Thus $gamyate$ \tl{gamyate},
+$namra.h$ \tl{namraḥ}, $amla.h$ \tl{amlaḥ}. As to $m&$ \tl{m} before
+semivowels in the middle of compounds, see \S~9.
+
+\s With the exception of \tl{jihvāmūlīya} XXX XXX (\eng{tongue-root
+  letter}), \tl{upadhmānīya} XXX XXX (\eng{to be breathed on}), anusvāra
+$-.m$ \tl{ṁ} (\eng{after-sound}), visarga $.h$ \tl{ḥ} (\eng{emission},
+see Taitt. Brāhm. iii p. 23 a), and \tl{repha r} (\eng{burring}), all
+letters are named in Sanskrit by adding \tl{kāra} (\eng{making}) to
+their sounds. Thus $a$ \tl{a} is called $akaara.h$ \tl{akāraḥ}; $ka$
+\tl{ka}, $kakaara.h$ \tl{kakāraḥ}.
+
+\s The vowels, if initial, are written,
+
+\begin{tabbing}
+  \hspace*{2cm}\=$a$, \=$aa$, \=$i$, \=$ii$, \=$.r$, \=$.R$, \=$.l$,
+  \=($.L$), \=$u$, \=$uu$, \=$e$, \=$ai$, \=$o$, \=$au$;\\
+  \>\tl{a},\>\tl{ā},\>\tl{i}
