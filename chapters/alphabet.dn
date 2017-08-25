@@ -266,9 +266,23 @@ letters are named in Sanskrit by adding \tl{kāra} (\eng{making}) to
 their sounds. Thus $a$ \tl{a} is called $akaara.h$ \tl{akāraḥ}; $ka$
 \tl{ka}, $kakaara.h$ \tl{kakāraḥ}.
 
-\s The vowels, if initial, are written,
+\s The vowels, if initial, are written $a$ \tl{a}, $aa$ \tl{ā}, $i$
+\tl{i}, $ii$ \tl{ī}, $.r$ \tl{ṛ}, $.R$ \tl{\d{\={r}}}, $.l$ \tl{ḷ},
+($.L$ \tl{\d{\={l}}}), $u$ \tl{u}, $uu$ \tl{ū}, $e$ \tl{e}, $ai$
+\tl{ai}, $o$ \tl{o}, $au$ \tl{au}; if they follow a consonant, they are
+written with the following signs: XXX. There is one exception. If the
+vowel $.r$ \tl{ṛ} follows the consonant $r&$ \tl{r}, it retains its
+initial form, and the \tl{r} is written over it. Ex. $nir.rti.h$
+\tl{nirṛtiḥ}.
 
-\begin{tabbing}
-  \hspace*{2cm}\=$a$, \=$aa$, \=$i$, \=$ii$, \=$.r$, \=$.R$, \=$.l$,
-  \=($.L$), \=$u$, \=$uu$, \=$e$, \=$ai$, \=$o$, \=$au$;\\
-  \>\tl{a},\>\tl{ā},\>\tl{i}
+In certain words which tolerate an hiatus in the body of a word, the
+second vowel is written in its initial form. Ex. $go{}agra$ \tl{goagra},
+adj. \eng{preceded by cows}, instead of $go.agra$ \tl{go'gra} or
+$gavaagra$ \tl{gavāgra}; $goa"sva.m$ \tl{goaśvaṃ}, \eng{cows and horses};
+$pra{}uga$ \tl{praüga}, \eng{yoke}; $tita{}u$ \tl{titaü}, \eng{sieve}.
+
+\s Every consonant, if written by itself, is supposed to be followed by
+a short \tl{a}. Thus $ka$ is not pronounced \tl{k}, but \tl{ka}; $ya$
+not \tl{y}, but \tl{ya}. But $ka$ \tl{k} or any other consonant, if
+followed by any vowel except \tl{a}, is pronounced without the inherent
+\tl{a}. Thus
