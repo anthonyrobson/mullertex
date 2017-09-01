@@ -1,0 +1,132 @@
+@dollars
+\chapter{Rules of Sandhi or the Combination of Letters.}
+
+\s In Sanskrit every sentence is considered as one unbroken chain of
+syllables. Except where there is a stop, which we should mark by
+interpunction, the final letters of each word are made to coalesce with
+the initial letters of the following word. This coalescence of final and
+initial letters, (of vowels with vowels, of consonants with consonants,
+and of consonants with vowels,) is called \emph{Sandhi}.
+
+As certain letters in Sanskrit are incompatible with each other, i.e.
+cannot be pronounced one immediately after the other, they have to be
+modified or assimilated in order to faciliate their pronunciation. The
+rules, according to which either one or both letters are thus modified,
+are called \emph{the rules of Sandhi}.
+
+As according to a general rule the words in a sentence must thus be
+glued together, the mere absence of Sandhi is in many cases sufficient
+to mark the stops which we have to mark in English by interpunction. Ex.
+$astvagnimaahaatmya.m i.mdrastu devaanaa.m mahattama.h$
+\tl{astvagnimāhātmyaṃ, indrastu devānāṃ mahattamaḥ}, \eng{Let there be
+  the greatness of Agni; nevertheless Indra is the greatest of the
+  gods}.
+
+\section{Distinction between External and Internal Sandhi.}
+
+\s It is essential, in order to avoid confusion, to distinguish between
+the rules of Sandhi which determine the changes of final and initial
+letters of words (\tl{padas}), and between those other rules of Sandhi
+which apply to the final letters of verbal roots (\tl{dhātu}) and
+nominal bases (\tl{prātipadika}) when followed by certain terminations
+or suffixes. Though both are based on the same phonetic principles and
+are sometimes identical, their application is different. For shortness'
+sake it will be best to apply the name of \emph{External Sandhi} to the
+changes which take place at the meeting of final and initial letters of
+words, and that of \emph{Internal Sandhi} to the changes produced by the
+meeting of radical and formative elements.
+
+The rules which apply to final and initial letters of words (\tl{padas})
+apply, with few exceptions, to the final and initial letters of the
+component parts of compounds, and likewise to the final letters of
+nominal bases (\tl{prātipadika}) when followed by the so-called
+\emph{Pada}-terminations ($bhyaa.m$ \tl{bhyāṃ}, $bhi.h$ \tl{bhiḥ},
+$bhya.h$ \tl{bhyaḥ}, $su$ \tl{su}), or by secondary (\tl{taddhita})
+suffixes beginning with any consonants except \tl{y}.
+
+The changes produced by the contact of incompatible letters in the body
+of a word should properly be treated under the heads of declension,
+conjugation, and derivation. In many cases it is far easier to remember
+the words ready-made from the dictionary, or the grammatical paradigms
+from the grammar, than to acquire the complicated rules with their
+numerous exceptions which are generally detailed in Sanskrit grammars
+under the head of Sandhi. It is easier to learn that the participle
+passive of $lih&$ \tl{lih}, \eng{to lick}, is $lii.dha.h$ \tl{līḍhaḥ},
+than to remember the rules according to which $h&$ + $t&$ \tl{h + t} are
+changed into $.dh&$ + $t&$ \tl{ḍh + t}, $.d&$ + $dh&$ \tl{ḍ + dh}, and
+$.d&$ + $.dh&$ \tl{ḍ + ḍh}; $.d&$ \tl{ḍ} is dropt and the vowel
+lengthened; while in $pariv.rh&$ + $ta.h$ \tl{parivṛh + taḥ}, the vowel,
+under the same circumstances, remains short: \tl{parivṛh + taḥ} =
+\tl{parivṛḍh + taḥ}, \tl{parivṛḍ + dhaḥ} = \tl{parivṛḍ + ḍhaḥ} =
+\tl{parivṛḍhaḥ}. In Greek and Latin no rules are given with regard to
+changes of this kind. If they are to be given at all in Sanskrit
+grammars, they should, to avoid confusion, be kept perfectly distinct
+from the rules affecting the final and initial letters of words as
+brought together in one and the same sentence.
+
+\section{Classification of Vowels.}
+
+\s Vowels are divided into short (\tl{hrasva}), long (\tl{dīrgha}), and
+protracted (\tl{pluta}) vowels. Short vowels have one measure
+(\tl{mātrā}), long vowels two, protracted vowels three. A consonant is
+said to last half the time of a short vowel.
+
+\begin{enumerate}
+\item Short vowels: $a$ \tl{a}, $i$ \tl{i}, $u$ \tl{u}, $.r$ \tl{ṛ},
+  $.l$ \tl{ḷ}.
+\item Long vowels: $aa$ \tl{ā}, $ii$ \tl{ī}, $uu$ \tl{ū}, $.R$
+  \tl{\d{\={r}}}, $e$ \tl{e}, $ai$ \tl{ai}, $o$ \tl{o}, $au$ \tl{au}.
+\item Protracted vowels are indicated by the figure $3$ \tl{3}; $a3$
+  \tl{a3}, $aa3$ \tl{ā3}, $i3$ \tl{i3}, $ii3$ \tl{ī3}, $e3$ \tl{e3},
+  $au3$ \tl{au3}. Sometimes we find $a3i$ \tl{a3i}, instead of $e3$
+  \tl{e3}; or $aa3u$ \tl{ā3u}, instead of $au3$ \tl{au3}.
+\end{enumerate}
+
+\s Vowels are likewise divided into
+
+\begin{enumerate}
+\item Monophthongs (\tl{samānāk.sara}): $a$ \tl{a}, $aa$ \tl{ā}, $i$
+  \tl{i}, $ii$ \tl{ī}, $u$ \tl{u}, $uu$ \tl{ū}, $.r$ \tl{ṛ}, $.R$
+  \tl{\d{\={r}}}, $.l$ \tl{ḷ}.
+\item Diphthongs (\tl{sandhyak.sara}): $e$ \tl{e}, $ai$ \tl{ai}, $o$
+  \tl{o}, $au$ \tl{au}.
+\end{enumerate}
+
+\s All vowels are liable to be nasalized, or to become \tl{anunāsika}:
+$a/$ \tl{XXX}, $aa/$ \tl{XXX}.
+
+\s Vowels are again divided into light (\tl{laghu}) and heavy
+(\tl{guru}). This division is important for metrical purposes.
+
+\begin{enumerate}
+\item Light vowels are $a$ \tl{a}, $i$ \tl{i}, $u$ \tl{u}, $.r$ \tl{ṛ},
+  $.l$ \tl{ḷ}, if not followed by a double consonant.
+\item Heavy vowels are $e$ \tl{e}, $ai$ \tl{ai}, $o$ \tl{o}, $au$
+  \tl{au}, and any short vowel, if followed by more than one consonant.
+\end{enumerate}
+
+\s Vowels are, lastly, divided according to accent, into \emph{acute}
+(\tl{udātta}), \emph{grave} (\tl{anudātta}), and \emph{circumflexed}
+(\tl{svarita}). The acute vowels are pronounced with a raised tone, the
+grave vowels with a low, the circumflexed with an even tone. Accents are
+marked in Vedic literature only.
+
+\section{Guṇa and Vṛddhi.}
+
+\s Guṇa is the strengthening of $i$ \tl{i}, $ii$ \tl{ī}, $u$ \tl{u},
+$uu$ \tl{ū}, $.r$ \tl{ṛ}, $.R$ \tl{\d{\={r}}}, $.l$ \tl{ḷ}, by means of
+a preceding $a$ \tl{a}, which raises $i$ \tl{i} and $ii$ \tl{ī} to $e$
+\tl{e}, $u$ \tl{u} and $uu$ \tl{ū} to $o$ \tl{o}, $.r$ \tl{ṛ} and $.R$
+\tl{\d{\={r}}} to $ar&$ \tl{ar}, $.l$ \tl{ḷ} to $al&$ \tl{al}.
+
+By a repetition of the same process the Vṛddhi (\eng{increase}) vowels
+are formed, viz. $ai$ \tl{ai} instead of $e$ \tl{e}, $au$ \tl{au}
+instead of $o$ \tl{o}, $aar&$ \tl{ār} instead of $ar&$ \tl{ar}, and
+$aal&$ \tl{āl} instead of $al&$ \tl{al}.
+
+Vowels are thus divided again into
+
+%%% Local Variables:
+%%% mode: latex
+%%% TeX-master: "../main"
+%%% End:

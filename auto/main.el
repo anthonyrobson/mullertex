@@ -2,16 +2,17 @@
  "main"
  (lambda ()
    (TeX-add-to-alist 'LaTeX-provided-class-options
-                     '(("book" "11pt")))
+                     '(("memoir" "a4paper" "11pt" "twoside" "onecolumn" "openany" "draft")))
    (TeX-add-to-alist 'LaTeX-provided-package-options
-                     '(("geometry" "paperwidth=216mm" "paperheight=343mm" "") ("hyphenat" "none")))
+                     '(("hyphenat" "none")))
    (TeX-run-style-hooks
     "latex2e"
     "chapters/preface"
     "chapters/alphabet"
-    "book"
-    "bk11"
-    "geometry"
+    "chapters/sandhi"
+    "memoir"
+    "memoir11"
+    "microtype"
     "changepage"
     "hyphenat"
     "devanagari"

@@ -1,17 +1,16 @@
-\documentclass[11pt]{book}
+\documentclass[a4paper,11pt,twoside,onecolumn,openany,draft]{memoir}
+\usepackage{microtype}
+
+\chapterstyle{thatcher}
 
 % Page size and margins
 % TODO. Sort page margins, etc.
-\usepackage[
-  paperwidth=216mm,
-  paperheight=343mm,
-  %showframe=true
-]{geometry}
+% \usepackage[paperwidth=216mm,paperheight=343mm]{geometry}
 
 % Smaller margins for tables
 \usepackage{changepage}
 \newlength{\offsetpage}
-\setlength{\offsetpage}{2.5cm}
+\setlength{\offsetpage}{3cm}
 \newenvironment{widepage}{\begin{adjustwidth}{-\offsetpage}{-\offsetpage}%
     \addtolength{\textwidth}{2\offsetpage}}{\end{adjustwidth}}
 
@@ -40,9 +39,14 @@
 
 \begin{document}
 
+\frontmatter
+
 \input{chapters/preface}
 
+\mainmatter
+
 \input{chapters/alphabet}
+\input{chapters/sandhi}
 
 \end{document}
 
