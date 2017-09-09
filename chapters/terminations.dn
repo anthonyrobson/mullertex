@@ -1,0 +1,268 @@
+@dollars
+\chapter{Augment, Reduplication, and Terminations.}
+
+\s TODO
+
+\s TODO
+
+\section{Reduplication.}
+
+\s TODO
+
+\section{General Rules of Reduplication.}
+
+\s TODO
+
+\section{Special Rules of Reduplication.}
+
+\s TODO
+
+\section{Terminations.}
+
+\s After having explained how the verbal roots are modified in ten
+different ways before they receive the terminations of the four special
+tenses, the present, imperfect, optative, and imperative, we give a
+table of the terminations for the special or modified tenses and moods.
+
+\s The terminations for the modified tenses, though on the whole the
+same for all verbs, are subject to certain variations, according as the
+verbal bases take $a$ \tl{a} (first division), or $nu$ \tl{nu}, $u$
+\tl{u}, $nii$ \tl{nī} (second division, A), or nothing (second division,
+B) between themselves and the terminations. Instead of giving the table
+of terminations according to the system of native grammarians, or
+according to that of comparative philologists, and explaining the real
+or fanciful changes which they are supposed to have undergone in the
+different classes of verbs, it will be more useful to give them in that
+form in which they may mechanically be attached to each verbal base. The
+beginner should commit to memory the actual paradigms rather than the
+different sets of terminations. Instead of taking $aathe$ \tl{āthe} as
+the termination of the 2nd person dual ātmanepada, and learning that the
+$aa$ \tl{ā} of $aathe$ \tl{āthe} is changed to $i$ \tl{i} after bases in
+$a$ \tl{a} (Pāṇini, vii. 2, 81), it is simpler to take $ithe$ \tl{ithe}
+as the termination in the first division; but still simpler to commit to
+memory such forms as $bodhethe$ \tl{bodhethe}, $dvi.saathe$
+\tl{dviṣāthe}, $mimaathe$ \tl{mimāthe}, without asking at first any
+questions as to how they came to be what they are.
+
+\subsection{First Division.}
+
+\begin{center}
+  Bhū, Tud, Div, and Cur Classes.
+\end{center}
+
+\begin{widepage}
+  \small
+  \begin{tabular}[h]{lllllllll}
+    & \multicolumn{4}{c}{\textsc{Parasmaipada.}} &
+                                                   \multicolumn{4}{c}{\textsc{Ātmanepada}}\\
+    & Present. & Imperf. & Optative. & Imperat. & Present. & Imperfect. &
+                                                                          Optative.
+                                                           & Imperative.\\
+    1. & $ami$ \tl{ami} & $m&$ \tl{m} & $iyam&$ \tl{iyam} & $ani$ \tl{ani}
+                                                & $i$ \tl{i} & $i$ \tl{i}
+                                                                        &
+                                                                          $iya$
+                                                                          \tl{iya}
+                                                           & $e$ \tl{e}\\
+    2. & $si$ \tl{si} & $.h$ \tl{ḥ} & $i.h$ \tl{iḥ} & —\footnotemark[1] &
+                                                                          $se$
+                                                                          \tl{se}
+                                     & $thaa.h$ \tl{thāḥ} & $ithaa.h$
+                                                            \tl{ithāḥ} &
+                                                                         $sva$
+                                                                         \tl{sva}\\
+    3. & $ti$ \tl{ti} & $t&$ \tl{t} & $it&$ \tl{it} & $tu$
+                                                      \tl{tu}\footnotemark[1]
+                                                & $te$ \tl{te} & $ta$
+                                                                 \tl{ta} &
+                                                                           $ita$
+                                                                           \tl{ita}
+                                                           & $taam&$
+                                                                    \tl{tām}\\
+    1. & $ava.h$ \tl{avaḥ} & $ava$ \tl{ava} & $iva$ \tl{iva} & $ava$
+                                                               \tl{ava} &
+                                                                          $avahe$
+                                                                          \tl{avahe}
+                                     & $avahi$ \tl{avahi} & $ivahi$
+                                                            \tl{ivahi} &
+                                                                         $avahi$
+                                                                         \tl{avahi}\\
+    2. & $tha.h$ \tl{thaḥ} & $tam&$ \tl{tam} & $itam&$ \tl{itam} & $tam&$
+                                                                         \tl{tam}
+                                                           & $ithe$
+                                                             \tl{ithe} &
+                                                                         $ithaam&$
+                                                                                  \tl{ithām}
+       & $iyaathaam&$ \tl{iyāthām} & $ithaam&$ \tl{ithām}\\
+    3. & $ta.h$ \tl{taḥ} & $taam&$ \tl{tām} & $itaam&$ \tl{itām} &
+                                                                   $taam&$
+                                                                          \tl{tām}
+                                                           & $ite$
+                                                             \tl{ite} &
+                                                                        $itaam&$
+                                                                                \tl{itām}
+       & $iyaataam&$ \tl{iyātām} & $itaam&$ \tl{itām}\\
+    1. & $ama.h$ \tl{amaḥ} & $ama$ \tl{ama} & $ima$ \tl{ima} & $ama$
+                                                               \tl{ama}
+                         & $amahe$ \tl{amahe} & $amahi$ \tl{amahi} &
+                                                                     $imahi$
+                                                                     \tl{imahi}
+                                                           & $amahai$
+                                                             \tl{amahai}\\
+    2. & $tha$ \tl{tha} & $ta$ \tl{ta} & $ita$ \tl{ita} & $ta$ \tl{ta} &
+                                                                         $dhve$
+                                                                         \tl{dhve}
+                                     & $dhvam&$ \tl{dhvam} & $idhvam&$
+                                                                      \tl{idhvam}
+                                                           & $dhvam&$
+                                                                     \tl{dhvam}\\
+    3. & $nti$ \tl{nti} & $n&$ \tl{n} & $iyu.h$ \tl{iyuḥ} & $ntu$
+                                                            \tl{ntu} &
+                                                                       $nte$
+                                                                       \tl{nte}
+                                                & $nta$ \tl{nta} &
+                                                                   $iran&$
+                                                                          \tl{iran}
+                                                           & $ntaam&$ \tl{ntām}\\
+  \end{tabular}
+\end{widepage}
+
+\footnotetext[1]{In the second and third persons $taat&$ \tl{tāt} may be
+  used as termination after all verbs, if the sense is benedictive.}
+
+\subsection{Second Division.}
+
+\begin{center}
+  Su, Tan, Krī, Ad, Hu, and Rudh Classes.
+\end{center}
+
+\begin{widepage}
+  \small
+  \begin{tabular}[h]{lllllllll}
+    & \multicolumn{4}{c}{\textsc{Parasmaipada.}} &
+                                                   \multicolumn{4}{c}{\textsc{Ātmanepada.}}\\
+    & Present. & Imperfect. & Optative. & Imperative. & Present. &
+                                                                   Imperfect.
+                                                      & Optative. &
+                                                                    Imperative.\\
+    1. & \framebox{$mi$ \tl{mi}} & \framebox{$am&$ \tl{am}} & $yaam&$
+                                                                     \tl{yām}
+                                        & \framebox{$aani$ \tl{āni}} &
+                                                                       $e$
+                                                                       \tl{e}
+                                                                 & $i$
+                                                                   \tl{i}
+                                                      & $iiya$ \tl{īya}
+                                                                  &
+                                                                    \framebox{$ai$
+                                                                    \tl{ai}}\\
+    2. & \framebox{$si$ \tl{si}} & \framebox{$.h$ \tl{ḥ}} & $ya.h$
+                                                            \tl{yaḥ} &
+                                                                       $hi$
+                                                                       \tl{hi}\footnotemark
+                            & $se$ \tl{se} & $thaa.h$ \tl{thāḥ} &
+                                                                  $iithaa.h$
+                                                                  \tl{īthāḥ}
+                                                                 & $sva$
+                                                                   \tl{sva}\\
+    3. & \framebox{$ti$ \tl{ti}} & \framebox{$t&$ \tl{t}} & $yaat&$
+                                                                   \tl{yāt}
+                                        & \framebox{$tu$ \tl{tu}} & $te$
+                                                                    \tl{te}
+                                                                 & $ta$
+                                                                   \tl{ta}
+                                                      & $iita$ \tl{īta}
+                                                                  &
+                                                                    $taam&$
+                                                                           \tl{tām}\\
+    1. & $va.h$ \tl{vaḥ} & $va$ \tl{va} & $yaava$ \tl{yāva} &
+                                                              \framebox{$aava$
+                                                              \tl{āva}}
+                            & $vahe$ \tl{vahe} & $vahi$ \tl{vahi} &
+                                                                    $iivahi$
+                                                                    \tl{īvahi}
+                                                                 &
+                                                                   \framebox{$aavahai$
+                                                                   \tl{āvahai}}\\
+    2. & $tha.h$ \tl{thaḥ} & $tam&$ \tl{tam} & $yaatam&$ \tl{yātam} &
+                                                                      $tam&$
+                                                                            \tl{tam}
+                                                                 &
+                                                                   $aathe$
+                                                                   \tl{āthe}
+                                                      & $aathaam&$
+                                                                  \tl{āthām}
+       & $iiyaathaam&$ \tl{īyāthām} & $aathaam&$ \tl{āthām}\\
+    3. & $ta.h$ \tl{taḥ} & $taam&$ \tl{tām} & $yaataam&$ \tl{yātām} &
+                                                                      $taam&$
+                                                                             \tl{tām}
+                                                                 &
+                                                                   $aathe$
+                                                                   \tl{āte}
+                                                      & $aataam&$
+                                                                 \tl{ātām}
+       & $iiyaataam&$ \tl{īyātām} & $aataam&$ \tl{ātām}\\
+    1. & $ma.h$ \tl{maḥ} & $ma$ \tl{ma} & $yaama$ \tl{yāma} &
+                                                              \framebox{$aama$
+                                                              \tl{āma}}
+                            & $mahe$ \tl{mahe} & $mahi$ \tl{mahi} &
+                                                                    $iimahi$
+                                                                    \tl{īmahi}
+                                                                 &
+                                                                   \framebox{$aamahai$
+                                                                   \tl{āmahai}}\\
+    2. & $tha$ \tl{tha} & $ta$ \tl{ta} & $yaata$ \tl{yāta} & $ta$
+                                                             \tl{ta} &
+                                                                       $dhve$
+                                                                       \tl{dhve}
+                                        & $dhvam&$ \tl{dhvam} &
+                                                                $iidhvam&$
+                                                                          \tl{īdhvam}
+                                                                  &
+                                                                    $dhvam&$
+                                                                            \tl{dhvam}\\
+    3. & $anti$ \tl{anti}\footnotemark & $an&$ \tl{an}\footnotemark &
+                                                                      $yu.h$
+                                                                      \tl{yuḥ}
+                            & $antu$ \tl{antu}\footnotemark & $ate$
+                                                              \tl{ate} &
+                                                                         $ata$
+                                                                         \tl{ata}
+                                                                 &
+                                                                   $iiran&$
+                                                                           \tl{īran}
+                                                                  &
+                                                                    $ataam&$ \tl{atām}\\
+  \end{tabular}
+\end{widepage}
+
+\footnotetext{The Su and Tan classes take no termination, except when
+  $u$ \tl{u} is preceded by a conjunct consonant.}
+
+\footnotetext{Hu class and $abhyasta$ \tl{abhyasta}, i.e. reduplicated
+  bases, take $ati$ \tl{ati}.}
+
+\footnotetext{Hu class, reduplicated bases, and $vid&$ \tl{vid}, \eng{to
+  know}, take $u.h$ \tl{uḥ}, before which verbs ending in a vowel
+require guṇa. $u.h$ \tl{uḥ} is used optionally after verbs in $aa$
+\tl{ā}, and after $dvi.s&$ \tl{dviṣ}, \eng{to hate} (Pāṇini, iii. 4,
+109–112).}
+
+\footnotetext{Hu class and reduplicated bases take $atu$ \tl{atu}.}
+
+The terminations enclosed in squares are the weak, unaccented
+terminations which require strengthening of the base.
+
+\s By means of these terminations the student is able to form the
+present, imperfect, optative, and imperative in the parasmaipada and
+ātmanepada of all regular verbs in Sanskrit; and any one who has clearly
+understood how the verbal bases are prepared in ten different ways for
+receiving their terminations, and who will attach to these verbal bases
+the terminations as given above, according to the rules of sandhi, will
+have no difficulty in writing out for himself the paradigms of any
+Sanskrit verb in four of the most important tenses and moods, both in
+the parasmaipada and ātmanepada. Some verbs, however, are irregular in
+the formation of their base; these must be learnt from the
+\emph{Dhātupāṭha}.
+
+CONJUGATION TABLES

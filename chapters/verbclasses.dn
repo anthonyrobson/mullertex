@@ -1,0 +1,259 @@
+@dollars
+\chapter{Special and General Tenses and the Ten Classes of Verbs.}
+
+\s Sanskrit grammarians have divided all verbs into ten classes,
+according to certain modifications which their roots undergo before the
+terminations of the Present, the Imperfect, the Optative, and
+Imperative. This division is very useful, and will be retained with some
+slight alterations. One and the same root may belong to different
+classes. Thus $bhraa"s&$ \tl{bhrāś}, $bhlaa"s&$ \tl{bhlāś}, $bhram&$
+\tl{bhram}, $kram&$ \tl{kram}, $klam&$ \tl{klam}, $tras&$ \tl{tras},
+$tru.t&$ \tl{truṭ}, $la.s&$ \tl{laṣ} belong to the Bhū and Div classes;
+$bhraa"sate$ \tl{bhrāśate} or $bhraa"syate$ \tl{bhrāśyate}, \&c.
+(Pāṇini, iii. 1, 70). Again, $sku$ \tl{sku}, $sta.mbh&$ \tl{stambh},
+$stu.mbh&$ \tl{stumbh}, $skambh&$ \tl{skambh}, $skumbh&$ \tl{skumbh}
+belong to the Su and Krī classes; $skunoti$ \tl{skunoti} or $skunaati$
+\tl{skunāti} (Pāṇini, iii. 1, 82).
+
+\s The four tenses and moods which require this modification of the root
+will be called the \emph{Special Modified Tenses}; the rest the
+\emph{General or Unmodified Tenses}. Thus the root $ci$ \tl{ci} is
+changed in the Present, Imperfect, Optative, and Imperative into $cinu$
+\tl{cinu}. Hence $cinuma.h$ \tl{cinumaḥ}, \eng{we search}; $acinuma$
+\tl{acinuma}, \eng{we searched}. But the Past Participle $cita.h$
+\tl{citaḥ}, \eng{searched}, or the Reduplicated Perfect $cicyu.h$
+\tl{cicyuḥ}, \eng{they have searched}, without the $nu$ \tl{nu}. We call
+$ci$ \tl{ci}, the root, $cinu$ \tl{cinu}, the base of the special
+tenses.
+
+\s Verbal bases are first divided into two divisions:
+
+\begin{enumerate}
+\item Bases which in the modified tenses end in $a$ \tl{a}.
+\item Bases which in the modified tenses end in any letter but $a$ \tl{a}.
+\end{enumerate}
+
+This second division is subdivided into,
+
+\begin{enumerate}
+\item Bases which insert $nu$ \tl{nu}, $u$ \tl{u}, or $nii$ \tl{nī},
+  between the root and the terminations.
+\item Bases which take the terminations without any intermediate
+  element.
+\end{enumerate}
+
+\section{I. First Division.}
+
+\s The first division comprises four classes:
+
+\begin{enumerate}
+\item The Bhū class (the first with the native grammarians, and called
+  by them $bhvaadi$ \tl{bhvādi}, the because the first verb in their
+  lists is $bhuu$ \tl{bhū}, \eng{to be}).
+
+  \begin{enumerate}
+  \item $a$ \tl{a} is added to the last letter of the root.
+  \item The vowel of the root takes guṇa, where possible (i.e. long or
+    short \tl{i}, \tl{u}, \tl{ṛ}, if final; short \tl{i}, \tl{u},
+    \tl{ṛ}, \tl{ḷ}, if followed by \emph{one} consonant).
+
+    $budh&$ \tl{budh}, \eng{to know}; $bodhati$ \tl{bodh-a-ti}, \eng{he
+      knows}. $bhuu$ \tl{bhū}, \eng{to be}; $bhavati$ \tl{bhav-a-ti},
+    \eng{he is}.
+  \end{enumerate}
+
+  \begin{note}
+    Note—The accent in verbs of the Bhū class was originally (as we know
+    from the ancient Vedic language) on the radical vowel; hence guṇa of
+    that vowel.
+
+    Many derivative verbs follow this class; such as causatives,
+    $bhaavayati$ \tl{bhāvayati}, \eng{he causes to be}; desideratives,
+    $bubhuu.sati$ \tl{bubhūṣati}, \eng{he wishes to be}, from $bhuu$
+    \tl{bhū}; intensives in the ātmanepada, $bebhidyate$
+    \tl{bebhidyate}, \eng{he cuts much}; and denominatives,
+    $lohitaayati$ \tl{lohitāyati}, \eng{he grows red}.
+  \end{note}
+
+\item The Tud class (the sixth class with native grammarians, and called
+  by them $tudaadi$ \tl{tudādi}, because the first root in their lists
+  is $tud&$ \tl{tud}, \eng{to strike}).
+
+  \begin{enumerate}
+  \item $a$ \tl{a} is added to the last letter of the root.
+  \item Before this $a$ \tl{a}, final $i$ \tl{i} and $ii$ \tl{ī} are
+    changed to $iy&$ \tl{iy}; $u$ \tl{u} and $uu$ \tl{ū} to $uv&$
+    \tl{uv}; $.r$ \tl{ṛ} to $riy&$ \tl{riy}; $.R$ \tl{\d{\={r}}} to
+    $ir&$ \tl{ir} (\S~110).
+
+    $tud&$ \tl{tud}, \eng{to strike}; $tudati$ \tl{tud-a-ti}. $ri$
+    \tl{ri}, \eng{to go}; $riyati$ \tl{riy-a-ti}. $nuu$ \tl{nū}, \eng{to
+    praise}; $nuvati$ \tl{nuv-a-ti}. $m.r$ \tl{mṛ}, \eng{to die};
+  $mriyate$ \tl{mriy-a-te}. $k.R$ \tl{k\d{\={r}}}, \eng{to scatter};
+  $kirati$ \tl{kir-a-ti}.
+  \end{enumerate}
+
+  \begin{note}
+    Note—The accent in verbs of the Tud class was originally on the
+    intermediate $a$ \tl{a}; hence never guṇa of the radical vowel.
+  \end{note}
+
+\item The Div class (the fourth with native grammarians, and called by
+  them $divaadi$ \tl{divādi}, because the first root in their lists is
+  $div&$ \tl{div}, \eng{to play}).
+
+  \begin{enumerate}
+  \item $ya$ \tl{ya} is added to the last letter of the root.
+
+    $nah&$ \tl{nah}, \eng{to bind}; $nahyati$ \tl{nah-ya-ti}. $budh&$
+    \tl{budh}, \eng{to awake}; $budhyate$ \tl{budh-ya-te}.
+  \end{enumerate}
+
+  \begin{note}
+    Note—The accent in verbs of the Div class is now on the radical
+    vowel; but there are traces to show that some verbs of this class
+    had the accent originally on $ya$ \tl{ya}.
+  \end{note}
+
+\item The Cur class (the tenth with native grammarians, and called by
+  them $curaadi$ \tl{curādi}, because the first root in their lists is
+  $cur&$ \tl{cur}, \eng{to steal}).
+
+  \begin{enumerate}
+  \item $aya$ \tl{aya} is added to the last letter of the root.
+  \item If the root ends in a simple consonant, preceded by $a$ \tl{a},
+    $a$ \tl{a} is lengthened to $aa$ \tl{ā}. $dal&$ \tl{dal}, \eng{to
+      cut}; $daalayati$ \tl{dāl-aya-ti} (many exceptions).
+  \item If the root ends in a simple consonant, preceded by $i$ \tl{i},
+    $u$ \tl{u}, $.r$ \tl{ṛ}, $.l$ \tl{ḷ}, these vowels take guṇa, while
+    \tl{\d{\={r}}} becomes $iir&$ \tl{īr}. $"sli.s&$ \tl{śliṣ}, \eng{to
+      embrace}; $"sle.sayati$ \tl{śleṣ-aya-ti}. $cur$ \tl{cur}, \eng{to
+      steal}; $corayati$ \tl{cor-aya-ti}. $m.r.s&$ \tl{mṛṣ}, \eng{to
+      endure}; $mar.sayate$ \tl{marṣ-aya-te}. $k.Rt&$ \tl{k\d{\={r}}t},
+    \eng{to praise}; $kiirtayati$ \tl{kīrt-aya-ti}.
+  \item Final $i$ \tl{i}, $ii$ \tl{ī}, $u$ \tl{u}, $uu$ \tl{ū}, $.r$
+    \tl{ṛ}, and $.R$ \tl{\d{\={r}}}, take vṛddhi. $jri$ \tl{jri},
+    \eng{to grow old}; $jraayayati$ \tl{jrāy-aya-ti}. $mii$ \tl{mī},
+    \eng{to walk}; $maayayati$ \tl{māy-aya-ti}. $dh.r$ \tl{dhṛ}, \eng{to
+      hold}; $dhaarayati$ \tl{dhār-aya-ti}. $p.R$ \tl{p\d{\={r}}},
+    \eng{to fill}; $paarayati$ \tl{pār-aya-ti}.
+  \end{enumerate}
+
+  \begin{note}
+    Note—Many, if not all roots arranged under this class by native
+    grammarians, are secondary roots, and identical in form with
+    causatives, denominatives, \&c. This class differs from other
+    classes, inasmuch as verbs belonging to it, keep their modificatory
+    syllable $aya$ \tl{aya} throughout, in the unmodified as well as in
+    the modified tenses, except in the benedictive parasmaipada. The
+    accent was on the first $a$ \tl{a} of $aya$ \tl{aya}.
+  \end{note}
+\end{enumerate}
+
+\section{II. Second Division.}
+
+\s The second division comprises all verbs which do not, in the special
+tenses, end in $a$ \tl{a} before the terminations.
+
+It is a distinguishing feature of this second division that, before
+certain terminations, all verbs belonging to it require strengthening of
+their radical vowel, or if they take $nu$ \tl{nu}, $u$ \tl{u}, $nii$
+\tl{nī}, strengthening of the vowels of these syllables. This
+strengthening generally takes place by means of guṇa, but $nii$ \tl{nī}
+is raised to $naa$ \tl{nā} in the Krī, and $n&$ \tl{n} to $na$ \tl{na}
+in the Rudh class.
+
+We shall call the terminations which require strengthening of the
+inflective base the \emph{weak terminations}, and the base before them
+the \emph{strong base}; and vice versa, the terminations which do not
+require strengthening of the base the \emph{strong terminations}, and
+the base before them the \emph{weak base}.
+
+Originally the accent fell on the strong terminations, and on the strong
+base, thus establishing throughout an equilibrium between base and
+termination.
+
+\subsection{a. Bases which take $nu$ \tl{nu}, $u$ \tl{u}, $nii$
+  \tl{nī}.}
+
+\s This first subdivision comprises three classes:
+
+\begin{enumerate}
+\item The Su class (the fifth class with native grammarians, and called
+  by them $svaadi$ \tl{svādi}, because the first root in their lists is
+  $su$ \tl{su}).
+
+  \begin{enumerate}
+  \item $nu$ \tl{nu} is added to the last letter of the root before
+    strong terminations; $no$ \tl{no} before weak terminations.
+
+    Ex. $su$ \tl{su}, \eng{to squeeze out}; $sunuma.h$ \tl{su-nu-máḥ}, 1st
+    person plural present. $sunomi$ \tl{su-nó-mi}, 1st person singular
+    present.
+  \end{enumerate}
+
+\item The Tan class (the eighth class with native grammarians, and
+  called by them $tanaadi$ \tl{tanādi}, because the first root in their
+  lists is $tan&$ \tl{tan}).
+
+  \begin{enumerate}
+  \item $u$ \tl{u} is added to the last letter of the root before
+    strong terminations; $o$ \tl{o} before weak terminations.
+
+    Ex. $tan&$ \tl{tan}, \eng{to stretch}; $tanuma.h$ \tl{tan-u-máḥ},
+    1st person plural present. $tanomi$ \tl{tan-ó-mi}, 1st person
+    singular present.
+  \end{enumerate}
+
+  \begin{note}
+    Note—All verbs belonging to this class end in $n&$ \tl{n}, except
+    one, $k.r$ \tl{kṛ}, $karomi$ \tl{karomi}, \eng{I do}.
+  \end{note}
+
+\item The Krī class (the ninth with native grammarians, and called by
+  them $kryaadi$ \tl{kryādi}, because the first root in their lists is
+  $krii$ \tl{krī}).
+
+  \begin{enumerate}
+  \item $nii$ \tl{nī} is added to the last letter of the root before
+    strong terminations; $naa$ \tl{nā} before weak terminations; $na$
+    \tl{na} before strong terminations beginning with vowels.
+
+    Ex. $krii$ \tl{krī}, \eng{to buy}; $krii.niima.h$ \tl{krī-ṇī-máḥ},
+    1st person plural present. $krii.naami$ \tl{krī-ṇā-mi}, 1st person
+    singular present. $krii.nanti$ \tl{krī-ṇ-ánti}, 3rd person plural
+    present.
+  \end{enumerate}
+\end{enumerate}
+
+\subsection{b. Bases to which the terminations are joined immediately.}
+
+\s The second division comprises three classes:
+
+\begin{enumerate}
+\item The Ad class (the second class with native grammarians, and called
+  by them $adaadi$ \tl{adādi}, because the first root in their lists is
+  $ad&$ \tl{ad}, \eng{to eat}).
+
+  \begin{enumerate}
+  \item The terminations are added immediately to the last letter of the
+    base; and in the contact of vowels with vowels, vowels with
+    consonants, consonants with vowels, and consonants with consonants,
+    the phonetic rules explained above (\S\S~107–145) must be carefully
+    observed.
+
+  \item The strong base before the weak terminations takes guṇa where
+    possible (\S~296, 1, 6).
+
+    Ex. $lih&$ \tl{lih}, \eng{to lick}; $lihma.h$ \tl{lih-máḥ}, \eng{we
+      lick}. $lehmi$ \tl{léh-mi}, \eng{I lick}. $lek.si$ \tl{lek-ṣi},
+    \eng{thou lickest} (\S~127). $lii.dha$ \tl{līḍha}, \eng{you lick}
+    (\S~128). $ale.t&$ \tl{aleṭ}, \eng{thou lickedst} (\S~128).
+  \end{enumerate}
+
+  The intensive verbs conjugated in the parasmaipada follow this class.
+\end{enumerate}
+%%% Local Variables:
+%%% mode: latex
+%%% TeX-master: "../main"
+%%% End:

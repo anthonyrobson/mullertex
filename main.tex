@@ -1,11 +1,11 @@
-\documentclass[a4paper,11pt,twoside,onecolumn,openany,draft]{memoir}
+\documentclass[a4paper,10pt,twoside,onecolumn,openany,draft]{memoir}
 \usepackage{microtype}
+\usepackage{tcolorbox}
 
 \chapterstyle{thatcher}
 
 % Page size and margins
-% TODO. Sort page margins, etc.
-% \usepackage[paperwidth=216mm,paperheight=343mm]{geometry}
+\usepackage[paperwidth=216mm,paperheight=343mm]{geometry}
 
 % Smaller margins for tables
 \usepackage{changepage}
@@ -14,8 +14,10 @@
 \newenvironment{widepage}{\begin{adjustwidth}{-\offsetpage}{-\offsetpage}%
     \addtolength{\textwidth}{2\offsetpage}}{\end{adjustwidth}}
 
+\usepackage{bigdelim,multirow}
+
 % No hyphenation in entire document
-\usepackage[none]{hyphenat}
+%\usepackage[none]{hyphenat}
 
 % Devanagari fonts
 \usepackage{devanagari}
@@ -29,27 +31,37 @@
 \newcommand{\tl}{\textit}
 \newcommand{\eng}{}
 
-% Shortcut for Panini's name
-\newcommand{\panini}{P\={a}\d{n}ini}
+% Shortcut for Panini reference
+\newcommand{\panini}[1]{(Pāṇini, #1)}
 
 % Section numbering command
 \newcounter{sec}
 \newcommand{\s}{\stepcounter{sec}\S~\thesec.~}
 \newenvironment{note}{\footnotesize}
 
+% Examples box
+\newtcolorbox{example}{colback=red!5!white, colframe=red!75!black}
+
+%\usepackage{hyperref}
+
 \begin{document}
 
 \frontmatter
 
 \input{chapters/preface}
+\input{chapters/preface2ed}
 
 \mainmatter
 
 \input{chapters/alphabet}
 \input{chapters/sandhi}
+\input{chapters/conjugation}
+\input{chapters/verbclasses}
+\input{chapters/intermediatei}
+\input{chapters/terminations}
+\input{chapters/participles}
 
 \end{document}
-
 %%% Local Variables:
 %%% mode: latex
 %%% TeX-master: t

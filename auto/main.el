@@ -2,26 +2,35 @@
  "main"
  (lambda ()
    (TeX-add-to-alist 'LaTeX-provided-class-options
-                     '(("memoir" "a4paper" "11pt" "twoside" "onecolumn" "openany" "draft")))
+                     '(("memoir" "a4paper" "10pt" "twoside" "onecolumn" "openany" "draft")))
    (TeX-add-to-alist 'LaTeX-provided-package-options
-                     '(("hyphenat" "none")))
+                     '(("geometry" "paperwidth=216mm" "paperheight=343mm")))
    (TeX-run-style-hooks
     "latex2e"
     "chapters/preface"
+    "chapters/preface2ed"
     "chapters/alphabet"
     "chapters/sandhi"
+    "chapters/conjugation"
+    "chapters/verbclasses"
+    "chapters/intermediatei"
+    "chapters/terminations"
+    "chapters/participles"
     "memoir"
-    "memoir11"
+    "memoir10"
     "microtype"
+    "tcolorbox"
+    "geometry"
     "changepage"
-    "hyphenat"
+    "bigdelim"
+    "multirow"
     "devanagari"
     "array"
     "booktabs")
    (TeX-add-symbols
+    '("panini" 1)
     "tl"
     "eng"
-    "panini"
     "s")
    (LaTeX-add-environments
     "widepage"
@@ -31,6 +40,8 @@
    (LaTeX-add-lengths
     "offsetpage")
    (LaTeX-add-array-newcolumntypes
-    "C"))
+    "C")
+   (LaTeX-add-tcolorbox-newtcolorboxes
+    '("example" "" "" "")))
  :latex)
 

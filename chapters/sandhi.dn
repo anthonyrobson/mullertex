@@ -1,5 +1,5 @@
 @dollars
-\chapter{Rules of Sandhi or the Combination of Letters.}
+\chapter{Rules of Sandhi or the Combination of Letters}
 
 \s In Sanskrit every sentence is considered as one unbroken chain of
 syllables. Except where there is a stop, which we should mark by
@@ -8,7 +8,7 @@ the initial letters of the following word. This coalescence of final and
 initial letters, (of vowels with vowels, of consonants with consonants,
 and of consonants with vowels,) is called \emph{Sandhi}.
 
-As certain letters in Sanskrit are incompatible with each other, i.e.
+As certain letters in Sanskrit are incompatible with each other, i.e.\
 cannot be pronounced one immediately after the other, they have to be
 modified or assimilated in order to faciliate their pronunciation. The
 rules, according to which either one or both letters are thus modified,
@@ -22,7 +22,7 @@ $astvagnimaahaatmya.m i.mdrastu devaanaa.m mahattama.h$
   the greatness of Agni; nevertheless Indra is the greatest of the
   gods}.
 
-\section{Distinction between External and Internal Sandhi.}
+\section{Distinction between External and Internal Sandhi}
 
 \s It is essential, in order to avoid confusion, to distinguish between
 the rules of Sandhi which determine the changes of final and initial
@@ -31,10 +31,13 @@ which apply to the final letters of verbal roots (\tl{dhātu}) and
 nominal bases (\tl{prātipadika}) when followed by certain terminations
 or suffixes. Though both are based on the same phonetic principles and
 are sometimes identical, their application is different. For shortness'
-sake it will be best to apply the name of \emph{External Sandhi} to the
-changes which take place at the meeting of final and initial letters of
-words, and that of \emph{Internal Sandhi} to the changes produced by the
-meeting of radical and formative elements.
+sake it will be best to apply the name of \emph{External Sandhi} %
+% second ed
+or \emph{Pada Sandhi} %keep space
+%
+to the changes which take place at the meeting of final and initial
+letters of words, and that of \emph{Internal Sandhi} to the changes
+produced by the meeting of radical and formative elements.
 
 The rules which apply to final and initial letters of words (\tl{padas})
 apply, with few exceptions, to the final and initial letters of the
@@ -42,7 +45,7 @@ component parts of compounds, and likewise to the final letters of
 nominal bases (\tl{prātipadika}) when followed by the so-called
 \emph{Pada}-terminations ($bhyaa.m$ \tl{bhyāṃ}, $bhi.h$ \tl{bhiḥ},
 $bhya.h$ \tl{bhyaḥ}, $su$ \tl{su}), or by secondary (\tl{taddhita})
-suffixes beginning with any consonants except \tl{y}.
+suffixes beginning with any consonants except $y&$~\tl{y}.
 
 The changes produced by the contact of incompatible letters in the body
 of a word should properly be treated under the heads of declension,
@@ -64,12 +67,15 @@ grammars, they should, to avoid confusion, be kept perfectly distinct
 from the rules affecting the final and initial letters of words as
 brought together in one and the same sentence.
 
-\section{Classification of Vowels.}
+\section{Classification of Vowels}
 
 \s Vowels are divided into short (\tl{hrasva}), long (\tl{dīrgha}), and
 protracted (\tl{pluta}) vowels. Short vowels have one measure
-(\tl{mātrā}), long vowels two, protracted vowels three. A consonant is
-said to last half the time of a short vowel.
+(\tl{mātrā}), long vowels two, protracted vowels three %
+% second ed
+\panini{1.2.27}%
+%
+. A consonant is said to last half the time of a short vowel.
 
 \begin{enumerate}
 \item Short vowels: $a$ \tl{a}, $i$ \tl{i}, $u$ \tl{u}, $.r$ \tl{ṛ},
@@ -93,7 +99,7 @@ said to last half the time of a short vowel.
 \end{enumerate}
 
 \s All vowels are liable to be nasalized, or to become \tl{anunāsika}:
-$a/$ \tl{XXX}, $aa/$ \tl{XXX}.
+$a/$~\tl{XXX}, $aa/$~\tl{XXX}.
 
 \s Vowels are again divided into light (\tl{laghu}) and heavy
 (\tl{guru}). This division is important for metrical purposes.
@@ -108,23 +114,543 @@ $a/$ \tl{XXX}, $aa/$ \tl{XXX}.
 \s Vowels are, lastly, divided according to accent, into \emph{acute}
 (\tl{udātta}), \emph{grave} (\tl{anudātta}), and \emph{circumflexed}
 (\tl{svarita}). The acute vowels are pronounced with a raised tone, the
-grave vowels with a low, the circumflexed with an even tone. Accents are
-marked in Vedic literature only.
+grave vowels with a low, the circumflexed with an even tone %
+% second ed
+\panini{1.2.29--32}
+%
+. Accents are marked in Vedic literature only.
 
-\section{Guṇa and Vṛddhi.}
+\section{Guṇa and Vṛddhi}
 
-\s Guṇa is the strengthening of $i$ \tl{i}, $ii$ \tl{ī}, $u$ \tl{u},
-$uu$ \tl{ū}, $.r$ \tl{ṛ}, $.R$ \tl{\d{\={r}}}, $.l$ \tl{ḷ}, by means of
-a preceding $a$ \tl{a}, which raises $i$ \tl{i} and $ii$ \tl{ī} to $e$
-\tl{e}, $u$ \tl{u} and $uu$ \tl{ū} to $o$ \tl{o}, $.r$ \tl{ṛ} and $.R$
-\tl{\d{\={r}}} to $ar&$ \tl{ar}, $.l$ \tl{ḷ} to $al&$ \tl{al}.
+\s Guṇa is the strengthening of $i$~\tl{i}, $ii$~\tl{ī}, $u$~\tl{u},
+$uu$~\tl{ū}, $.r$~\tl{ṛ}, $.R$~\tl{\d{\={r}}}, $.l$~\tl{ḷ}, by means of
+a preceding $a$~\tl{a}, which raises $i$~\tl{i} and $ii$~\tl{ī} to
+$e$~\tl{e}, $u$~\tl{u} and $uu$~\tl{ū} to $o$~\tl{o}, $.r$~\tl{ṛ} and
+$.R$~\tl{\d{\={r}}} to $ar&$~\tl{ar}, $.l$~\tl{ḷ} to $al&$~\tl{al} %
+% second ed
+\panini{1.1.1}
+%
+.
 
 By a repetition of the same process the Vṛddhi (\eng{increase}) vowels
-are formed, viz. $ai$ \tl{ai} instead of $e$ \tl{e}, $au$ \tl{au}
-instead of $o$ \tl{o}, $aar&$ \tl{ār} instead of $ar&$ \tl{ar}, and
-$aal&$ \tl{āl} instead of $al&$ \tl{al}.
+are formed, viz.\ $ai$~\tl{ai} instead of $e$~\tl{e}, $au$~\tl{au}
+instead of $o$~\tl{o}, $aar&$~\tl{ār} instead of $ar&$~\tl{ar}, and
+$aal&$~\tl{āl} instead of $al&$~\tl{al} %
+% second ed
+\panini{1.1.1}
+%
+.
 
-Vowels are thus divided again into
+Vowels are thus divided again into:
+
+\begin{tabular}[h]{llllll}
+  1.~Simple vowels: & $a$\tl{a}, $aa$\tl{ā}, & $i$\tl{i}, $ii$\tl{ī}, &
+                                                                        $u$\tl{u},
+                                                                        $uu$\tl{ū},
+  & $.r$\tl{ṛ}, $.R$\tl{\d{\={r}}}, & $.l$\tl{ḷ}.\\
+  2.~Guṇa vowels: & — & $e$\tl{e} (\tl{a} + \tl{i}), & $o$\tl{o} (\tl{a}
+                                                       + \tl{u}), &
+                                                                    $ar&$\tl{ar},
+                  & $al&$\tl{al}.\\
+  3.~Vṛddhi vowels: & $aa$\tl{ā} & $ai$\tl{āi} (\tl{a} + \tl{a} +
+                                   \tl{i}), & $au$\tl{āu} (\tl{a} +
+                                              \tl{a} + \tl{u}), &
+                                                                  $aar&$\tl{ār},
+                  & $aal&$\tl{āl}.\\
+\end{tabular}
+
+\s $a$~\tl{a} and $aa$~\tl{ā} do not take guṇa, or, as other grammarians
+say, remain unchanged after taking guṇa. Thus in the first person
+singular of the reduplicated perfect, which requires guṇa or vṛddhi,
+$han&$ \tl{han} forms with guṇa $jaghana$ \tl{jaghana}, or with vṛddhi
+$jaghaana$ \tl{jaghāna}, \eng{I have killed}.
+
+\section{Combination of Vowels at the End and Beginning of Words}
+
+\s As a general rule, Sanskrit allows of no hiatus (\tl{vivṛtti}) in a
+sentence. If a word ends in a vowel, and the next word begins with a
+vowel, certain modifications take place in order to remove the hiatus.
+
+\s For the purpose of explaining the combination of vowels, they may be
+divided into two classes:
+
+\begin{enumerate}
+\item Those which are liable to be changed into semivowels, $i$~\tl{i},
+  $ii$~\tl{ī}, $u$~\tl{u}, $uu$~\tl{ū}, $.r$~\tl{ṛ},
+  $.R$~\tl{\d{\={r}}}; also the diphthongs, $e$~\tl{e}, $ai$~\tl{ai},
+  $o$~\tl{o}, $au$~\tl{au}.
+
+\item Those which are not, $a$~\tl{a}, $aa$~\tl{ā}.
+\end{enumerate}
+
+Calling the former liquid,\footnote{The \emph{Prātiśākhya} calls thems
+  \tl{nāmin}, for a different reason; see \emph{Rig-veda-prātiśākhya},
+  ed.\ M.\ M., p.\ xxiii.} the latter hard vowels, we may say: If the
+same vowel (long or short) occurs at the end and beginning of words, the
+result is the long vowel \panini{6.1.101}. Thus
+
+\begin{quote}
+  $a$ or $aa$ + $a$ or $aa$ = $aa$ \tl{\v{\={a}}} + \tl{\v{\={a}}} =
+  \tl{ā}.\\
+  $i$ or $ii$ + $i$ or $ii$ = $ii$ \tl{\v{\={i}}} + \tl{\v{\={i}}} =
+  \tl{ī}.\\
+  $u$ or $uu$ + $u$ or $uu$ = $uu$ \tl{\v{\={u}}} + \tl{\v{\={u}}} =
+  \tl{ū}.\\
+  $.r$ or $.R$ + $.r$ or $.R$ = $.R$ \tl{\v{\={ṛ}}} + \tl{\v{\={ṛ}}} =
+  \tl{\d{\={r}}}.\footnote{The letter $.l$~\tl{ḷ} is left out, because
+    it is of no practical utility. It is treated like $.r$~\tl{ṛ}, only
+    substituting $l&$~\tl{l} for $r&$~\tl{r} in guṇa and vṛddhi. Thus
+    $.l$ + $anuba.mdha.h$ \tl{ḷ} + \tl{anubandhaḥ} becomes
+    $lanuba.mdha.h$ \tl{lanubandhaḥ}, i.e.\ having \tl{ḷ} as indicatory
+    letter.}
+\end{quote}
+
+\begin{tabbing}
+  Ex.\ \=$tava i.mdra.h$ = $tave.mdra.h$ \tl{tava} + \tl{indraḥ} =
+  \tl{tavendraḥ}, \eng{thine is Indra}.\\
+  \>$saa uktvaa$ = $soktvaa$ \tl{sā} + \tl{uktvā} = \tl{soktvā},
+  \eng{she having spoken}.\\
+  \>$saa .rddhi.h$ = $sarddhi.h$ \tl{sā} + \tl{ṛddhiḥ} = \tl{sarddhiḥ},
+  \eng{this wealth}.\footnotemark\\
+  \>$tava .lkaara.h$ = $tavalkaara.h$ \tl{tava} + \tl{ḷkāraḥ} =
+  \tl{tavalkāraḥ}, \eng{thy letter} \tl{ḷ}.
+\end{tabbing}
+
+\footnotetext{Some grammarians consider the Sandhi of \tl{\v{\={a}}}
+  with \tl{ṛ} optional, but they require the shortening of the long
+  \tl{ā}. Ex.\ $brahmaa$ + $.r.si.h$ \tl{brahmā} + \tl{ṛṣiḥ} =
+  $brahmar.si.h$ \tl{brahmarṣiḥ} or $brahma .r.si.h$ \tl{brahma ṛṣiḥ},
+  \eng{Brahmā}, a \eng{Rishi}.}
+
+Or in compounds, $kaamya$ + $i.s.ti.h$ = $kaamye.s.ti.h$ \tl{kāmya} +
+\tl{iṣṭiḥ} = \tl{kāmyeṣṭiḥ}, \eng{an offering for a certain boon}.
+$hita$ + $upade"sa.h$ = $hitopade"sa.h$ \tl{hita} + \tl{upadeśaḥ} =
+\tl{hitopadeśaḥ}, \eng{good advice}.
+
+\s If hard vowels (long or short) occur at the end of a word, and the
+next begins with a diphthong, the result is vṛddhi \panini{6.1.88}. Thus
+
+\begin{quote}
+  $a$ or $aa$ + $e$ = $ai$ \tl{\v{\={a}}} + \tl{e} = \tl{āi}.\\
+  $a$ or $aa$ + $ai$ = $ai$ \tl{\v{\={a}}} + \tl{āi} = \tl{āi}.\\
+  $a$ or $aa$ + $o$ = $au$ \tl{\v{\={a}}} + \tl{o} = \tl{āu}.\\
+  $a$ or $aa$ + $au$ = $au$ \tl{\v{\={a}}} + \tl{āu} = \tl{āu}.
+\end{quote}
+
+\begin{tabbing}
+  Ex.\ \=$tava eva$ = $tavaiva$ \tl{tava} + \tl{eva} = \tl{tavaiva},
+  \eng{of thee only}.\\
+  \>$saa aik.si.s.ta$ = $saik.si.s.ta$ \tl{sā} + \tl{aikṣiṣṭa} =
+  \tl{saikṣiṣṭa}, \eng{she saw}.\\
+  \>$tava o.s.tha.h$ = $tavau.s.tha.h$ \tl{tava} + \tl{oṣṭhaḥ} =
+  \tl{tavauṣṭhaḥ}, \eng{thy lip}.\\
+  \>$saa autsukyavatii$ = $sautsukyavatii$ \tl{sā} + \tl{autsukyavatī} =
+  \tl{sautsukyavatī}, \eng{she desirous}.
+\end{tabbing}
+
+Or in compounds, $raama$ + $ai"svarya.m$ = $raamai"svarya.m$ \tl{rāma} +
+\tl{aiśvaryaṃ} = \tl{rāmaiśvaryaṁ}, \eng{the lordship of Rāma}. $siitaa$
++ $aupamya.m$ = $siitaupamya.m$ \tl{sītā} + \tl{aupamyaṃ} =
+\tl{sītaupamyaṃ}, \eng{similarly with Sītā}, the wife of Rāma.
+
+\s If a simple liquid vowel (long or short) occurs at the end of a word,
+and the next begins with any vowel or diphthong, the result is change of
+the liquid vowel into a semivowel \panini{6.1.77}. Thus
+
+\begin{tabular}[h]{rlrl}
+  \ldelim\{{5}{*}[$i$ or $ii$] & $a$ or $aa$ = $ya$ or $yaa$ &
+                                                               \ldelim\{{5}{*}[\tl{\u{\={i}}}]
+  & \tl{\u{\={a}}} = \tl{y\u{\={a}}}.\\
+  & $.r$ or $.R$ = $y.r$ or $y.R$ & & \tl{ṛ\u{\={i}}} =
+                                      \tl{yṛ\u{\={i}}}.\\
+                               & $u$ or $uu$ = $yu$ or $yuu$ & & \tl{\u{\={u}}} = \tl{y\u{\={u}}}.\\
+  & $e$ or $ai$ = $ye$ or $yai$ & & \tl{e}, \tl{ai} = \tl{ye},
+                                    \tl{yai}.\\
+  & $o$ or $au$ = $yo$ or $yau$ & & \tl{o}, \tl{au} = \tl{yo},
+                                    \tl{yau}.\\
+  \ldelim\{{5}{*}[$.r$ or $.R$] & $a$ or $aa$ = $ra$ or $raa$ &
+                                                                \ldelim\{{5}{*}[\tl{\v{\={ṛ}}}]
+  & \tl{\u{\={a}}} = \tl{r\u{\={a}}}.\\
+                               & $i$ or $ii$ = $ri$ or $rii$ & & \tl{\u{\={i}}} = \tl{r\u{\={i}}}.\\
+                               & $u$ or $uu$ = $ru$ or $ruu$ & & \tl{\u{\={u}}} = \tl{r\u{\={u}}}.\\
+  & $e$ or $ai$ = $re$ or $rai$ & & \tl{e}, \tl{ai} = \tl{re},
+                                    \tl{rai}.\\
+  & $o$ or $au$ = $ro$ or $rau$ & & \tl{o}, \tl{au} = \tl{ro},
+                                    \tl{rau}.\\
+  \ldelim\{{5}{*}[$u$ or $uu$] & $a$ or $aa$ = $va$ or $vaa$ &
+                                                               \ldelim\{{5}{*}[\tl{\u{\={u}}}]
+  & \tl{\u{\={a}}} = \tl{v\u{\={a}}}.\\
+                               & $i$ or $ii$ = $vi$ or $vii$ & & \tl{\u{\={i}}} = \tl{v\u{\={i}}}.\\
+  & $.r$ or $.R$ = $v.r$ or $v.R$ & & \tl{r\u{\={i}}} =
+                                      \tl{vṛ\u{\={i}}}.\\
+  & $e$ or $ai$ = $ve$ or $vai$ & & \tl{e}, \tl{ai} = \tl{ve},
+                                    \tl{vai}.\\
+  & $o$ or $au$ = $vo$ or $vau$ & & \tl{o}, \tl{au} = \tl{vo}, \tl{vau}.\\
+\end{tabular}
+
+\begin{tabbing}
+  Ex.\ \=$dadhi atra$ = $dadhyatra$ \tl{dadhi} + \tl{atra} =
+  \tl{dadhyatra}, \eng{milk here}.\\
+  \>$kart.r uta$ = $kartruta$ \tl{kartṛ} + \tl{uta} = \tl{kartruta},
+  \eng{doing moreover}.\\
+  \>$madhu iva$ = $madhviva$ \tl{madhu} + \tl{iva} = \tl{madhviva},
+  \eng{like honey}.\\
+  \>$nadii ai.dasya$ = $nadyai.dasya$ \tl{nadī} + \tl{aiḍasya} =
+  \tl{nadyaiḍasya}, \eng{the river of Aiḍa}.
+\end{tabbing}
+
+In compounds, $nadii$ + $artha.m$ = $nadyartha.m$ \tl{nadī} +
+\tl{arthaṁ} = \tl{nadyarthaṁ}, \eng{for the sake of a river}.
+
+\begin{note}
+  Note—Some native grammarians allow, except in compounds, the omission
+  of this Sandhi, but they require in that case that a long final vowel
+  be shortened. Ex.\ $cakrii atra$ \tl{cakrī atra} may be $cakryatra$
+  \tl{cakryatra} or $cakri atra$ \tl{cakri atra}.
+\end{note}
+
+\s If a guṇa vowel occurs at the end of a word, and the next begins with
+any vowel or diphthong (except \tl{\u{\={a}}}), the last element of the
+guṇa vowel is changed into a semivowel. If \tl{ă} follows, \tl{ă} is
+elided, and no change takes place in the dipthong; see \S\,41
+\panini{6.1.78}. Thus
+
+\begin{quote}
+  $e$ (\tl{e}) + any vowel (except \tl{ă}) = $ay&$ (\tl{ay}).\\
+  $o$ (\tl{o}) + any vowel (except \tl{ă}) = $av&$ (\tl{av}).\\
+\end{quote}
+
+\begin{tabbing}
+  Ex.\ \=$sakhe aagaccha$ = $sakhayaagaccha$ \tl{sakhe āgaccha} =
+  \tl{sakhayāgaccha}, \eng{Friend, come!}\\
+  \>$sakhe iha$ = $sakhayiha$ \tl{sakhe iha} = \tl{sakhayiha},
+  \eng{Friend, here!}\\
+  \>$prabho ehi$ = $prabhavehi$ \tl{prabho ehi} = \tl{prabhavehi},
+  \eng{Lord, come near!}\\
+  \>$prabho au.sadha.m$ = $prabhavau.sadha.m$ \tl{prabho auṣadhaṁ} =
+  \tl{prabhavauṣadhaṁ}, \eng{Lord, medicine}.
+\end{tabbing}
+
+In compounds, $go$ + $ii"sa.h$ = $gavii"sa.h$ \tl{go} + \tl{īśaḥ} =
+\tl{gavīśaḥ}. There are various exceptions in compounds where $go$
+\tl{go} is treated as $gava$ \tl{gava} (\S\,41).
+
+\s If a vṛddhi vowel occurs at the end of a word, and the next begins
+with any vowel or diphthong, the last element is changed into a
+semivowel \panini{6.1.78}. Thus
+
+\begin{quote}
+  $ai$ (\tl{ai}) + any vowel = $aay&$ (\tl{āy}).\\
+  $au$ (\tl{au}) + any vowel = $aav&$ (\tl{āv}).\\
+\end{quote}
+
+\begin{tabbing}
+  Ex.\ \=$"sriyai artha.h$ = $"sriyaayartha.h$ \tl{śriyai arthaḥ} =
+  \tl{śriyāyarthaḥ}.\\
+  \>$"sriyai .rte$ = $"sriyaay.rte$ \tl{śriyai ṛte} = \tl{śriyāyṛte}.\\
+  \>$ravau astamite$ = $ravaavastamite$ \tl{ravau astamite} =
+  \tl{ravāvastamite}, \eng{after sunset}.\\
+  \>$tau iti$ = $taaviti$ \tl{tau iti} = \tl{tāviti}.
+\end{tabbing}
+
+In composition, $nau$ + $artha.m$ = $naavartha.m$ \tl{nau} + \tl{arthaṁ}
+= \tl{nāvarthaṁ}, \eng{for the sake of ships}.
+
+\s These two rules, however, are liable to certain modifications:
+
+\begin{enumerate}
+\item The final $y&$~\tl{y} and $v&$~\tl{v} of $ay&$~\tl{ay},
+  $av&$~\tl{av}, which stand according to rule for $e$~\tl{e},
+  $o$~\tl{o}, may be dropt before all vowels (except \tl{ă}, \S\,41);
+  not, however, in composition. Thus most MSS and printed editions
+  change
+
+  \begin{quote}
+    $sakhe aagaccha$ \tl{sakhe āgaccha}, not into $sakhayaagaccha$
+    \tl{sakhayāgaccha}, but into $sakha aagaccha$ \tl{sakha āgaccha}.\\
+    $sakhe iha$ \tl{sakhe iha}, not into $sakhayiha$ \tl{sakhayiha}, but
+    into $sakha iha$ \tl{sakha iha}.\\
+    $prabho ehi$ \tl{prabho ehi}, not into $prabhavehi$ \tl{prabhavehi},
+    but into $prabha ehi$ \tl{prabha ehi}.\\
+    $prabho au.sadha.m$ \tl{prabho auṣadhaṁ}, not into
+    $prabhavau.sadha.m$ \tl{prabhavauṣadhaṁ}, but into $prabha
+    au.sadha.m$ \tl{prabha auṣadhaṁ}.
+  \end{quote}
+
+\item The final $y&$~\tl{y} of $aay&$~\tl{āy}, which stands for
+  $ai$~\tl{āi}, may be dropt before all vowels, and it is usual to drop
+  it in our editions. Thus
+
+  \begin{quote}
+    $"sriyai artha.h$ \tl{śriyai arthaḥ} is more usually written
+    $"sriyaa artha.h$ \tl{śriyā arthaḥ} instead of $"sriyaayartha.h$
+    \tl{śriyāyarthaḥ}.
+  \end{quote}
+
+\item The final $v&$~\tl{v} or $aav&$~\tl{āv}, for $au$~\tl{āu}, may be
+  dropt before all vowels, but is more usually retained in our editions.
+  Thus
+
+  \begin{quote}
+    $tau iti$ \tl{tau iti} is more usually written $taaviti$
+    \tl{tāviti}, and not $taa iti$ \tl{tā iti}.
+  \end{quote}
+\end{enumerate}
+
+\begin{note}
+  Note—Before the particle $u$~\tl{u} the dropping of the final
+  $y&$~\tl{y} and $v&$~\tl{v} is obligatory.
+
+  It is without any reason that the final $y&$~\tl{y} of guṇa and vṛddhi
+  and the final $v&$~\tl{v} of guṇa are generally dropt, while the final
+  $v&$~\tl{v} of vṛddhi is generally retained. It would be more
+  consistent either always to retain the final semivowels or always to
+  drop them. See \emph{Rig-veda-prātiśākhya}, ed.\ M.\ M., sūtras 129,
+  132, 135; Pāṇini 6.1.78; 8.3.19.
+\end{note}
+
+\s In all these cases the hiatus, occasioned by the dropping of
+$y&$~\tl{y} and $v&$~\tl{v}, remains, and the rules of Sandhi are not to
+be applied again.
+
+\s $e$~\tl{e} and $o$~\tl{o}, before short $a$~\tl{a}, remain unchanged,
+and the initial $a$~\tl{a} is elided \panini{6.1.109}.
+
+\begin{tabbing}
+  Ex.\ \=$"sive atra$ = $"sive.atra$ \tl{śive atra} = \tl{śive'tra},
+  \eng{in Śiva there}.\\
+  \>$prabho anug.rhaa.na$ = $prabho.anug.rhaa.na$ \tl{prabho anugṛhāṇa}
+  = \tl{prabho'nugṛhāṇa}, \eng{Lord, please}.
+\end{tabbing}
+
+In composition this elision is optional \panini{6.1.122}.
+
+\begin{tabbing}
+  Ex.\ \=$go$ + $a"svaa.h$ = $go.a"svaa.h$ or $go{}a"svaa.h$ \tl{go} +
+  \tl{aśvāḥ} = \tl{go'śvāḥ} or \tl{go aśvāḥ}, \eng{cows and horses}.
+\end{tabbing}
+
+In some compounds $gava$ \tl{gava} must or may be substituted for $go$
+\tl{go}, if a vowel follows; $gavaak.sa.h$ \tl{gavākṣaḥ}, \eng{a
+  window}, literally \eng{a bull's eye}; $gavendra.h$ \tl{gavendraḥ},
+\eng{lord of kine} (a name of Krishna); $gavaajina.m$ or $go.ajina.m$
+\tl{gavājinaṁ} or \tl{go'jinaṁ}, \eng{a bull's hide}.
+
+\section{Unchangeable Vowels (\tl{Pragṛhya})}
+\s There are certain terminations the final vowels of which are not
+liable to any Sandhi rules. These vowels are called \tl{pragṛhya}
+\panini{1.1.11} by Sanskrit grammarians. They are,
+
+\begin{enumerate}
+\item The terminations of the dual in $ii$~\tl{ī}, $uu$~\tl{ū}, and
+  $e$~\tl{e}, whether of nouns or verbs.
+
+  \begin{tabbing}
+    Ex.\ \=$kavii imau$ \tl{kavī imau}, \eng{these two poets}.\\
+    \>$girii etau$ \tl{girī etau}, \eng{these two hills}.\\
+    \>$saadhuu imau$ \tl{sādhū imau}, \eng{these two merchants}.\\
+    \>$bandhuu aanaya$ \tl{bandhū ānaya}, \eng{bring the two friends}.\\
+    \>$late ete$ \tl{late ete}, \eng{these two creepers}.\\
+    \>$vidye ime$ \tl{vidye ime}, \eng{these two sciences}.\\
+    \>$"sayaate arbhakau$ \tl{śayāte arbhakau}, \eng{the two children
+      lie down}.\\
+    \>$"sayaavahe aavaa.m$ \tl{śayāvahe āvāṁ}, \eng{we two lie down}.\\
+    \>$yaacete artha.m$ \tl{yācete arthaṁ}, \eng{they two ask for
+      money}.\\
+  \end{tabbing}
+
+  \begin{note}
+    Note—Exceptions occur, as $ma.niiva$ \tl{maṇīva}, i.e.\ $ma.nii iva$
+    \tl{maṇī iva}, \eng{like two jewels}; $da.mpatiiva$ \tl{daṁpatīva},
+    i.e.\ $da.mpatii iva$ \tl{daṁpatī iva}, \eng{like husband and wife}.
+  \end{note}
+
+\item The terminations of $amii$ \tl{amī} and $amuu$ \tl{amū}, the
+  nominative plural masculine and the nominative \emph{dual} of the
+  pronoun $adas&$ \tl{adas} \panini{1.1.12}.
+
+  \begin{tabbing}
+    Ex.\ \=$amii a"svaa.h$ \tl{amī aśvāḥ}, \eng{these horses}.\\
+    \>$amii i.sava.h$ \tl{amī iṣavaḥ}, \eng{these arrows}.\\
+    \>$amuu arbhakau$ \tl{amū arbhakau}, \eng{these two children}. (This
+    follows from rule 1.)
+  \end{tabbing}
+\end{enumerate}
+
+\section{Irregular Sandhi}
+
+\s The following are a few cases of irregular Sandhi which require to be
+stated. When a preposition ending in $a$ or $aa$ \tl{\v{\={a}}} is
+followed by a verb beginning with $e$~\tl{e} or $o$~\tl{o}, the result
+of the coalescence of the vowels is $e$~\tl{e} or $o$~\tl{o}, not
+$ai$~\tl{ai} or $au$~\tl{au} \panini{6.1.94}.
+
+\begin{tabbing}
+  Ex.\ \=$pra$ + $ejate$ = $prejate$ \tl{pra} + \tl{ejate} =
+  \tl{prejate}.\\
+  \>$upa$ + $e.sate$ = $upe.sate$ \tl{upa} + \tl{eṣate} =
+  \tl{upeṣate}.\\
+  \>$pra$ + $e.sayati$ = $pre.sayati$ \tl{pra} + \tl{eṣayati} =
+  \tl{preṣayati}.\footnotemark\\
+  \>$paraa$ + $ekhati$ = $parekhati$ \tl{parā} + \tl{ekhati} =
+  \tl{parekhati}.\\
+  \>$upa$ + $o.sati$ = $upo.sati$ \tl{upa} + \tl{oṣati} =
+  \tl{upoṣati}.\\
+  \>$paraa$ + $ohati$ = $parohati$ \tl{parā} + \tl{ohati} =
+  \tl{parohati}.
+\end{tabbing}
+
+\footnotetext{In nouns derived from $pre.s&$ \tl{preṣ}, the rule is
+  optional. Ex.\ $pre.sya$ or $prai.sya$ \tl{preṣya} or \tl{praiṣya},
+  \eng{a messenger}. $pre.sa$ \tl{preṣa}, \eng{a gleaner}, is derived
+  from $pra$ \tl{pra} and $ii.s&$ \tl{īṣ}.}
+
+\begin{note}
+  This is not the case before the two verbs $edh&$ \tl{edh}, \eng{to
+    grow}, and $i$~\tl{i}, \eng{to go}, if raised by guṇa to $e$~\tl{e}
+  \panini{6.1.89}.
+
+  \begin{tabbing}
+    Ex.\ \=$upa$ + $edhate$ = $upaidhate$ \tl{upa} + \tl{edhate} =
+    \tl{upaidhate}.\\
+    \>$ava$ + $eti$ = $avaiti$ \tl{ava} + \tl{eti} = \tl{avaiti}.
+  \end{tabbing}
+
+  In verbs derived from nouns, and beginning with $e$ or $o$ \tl{e} or
+  \tl{o}, the elision of the final $a$ or $aa$ \tl{\u{\={a}}} of the
+  preposition is optional.
+\end{note}
+
+\s If a root beginning with $.r$~\tl{ṛ} is preceded by a preposition
+ending in $a$~\tl{a} or $aa$~\tl{ā}, the two vowels coalesce into
+$aar&$~\tl{ār} instead of $ar&$~\tl{ar} \panini{6.1.91}.
+
+\begin{tabbing}
+  Ex.\ \=$apa$ + $.rcchati$ = $apaarcchati$ \tl{apa} + \tl{ṛcchati} =
+  \tl{apārcchati}.\\
+  \>$ava$ + $.r.naati$ = $avaar.naati$ \tl{ava} + \tl{ṛṇāti} =
+  \tl{avārṇāti}.\\
+  \>$pra$ + $.rjate$ = $praarjate$ \tl{pra} + \tl{ṛjate} =
+  \tl{prārjate}.\\
+  \>$paraa$ + $.r.sati$ = $paraar.sati$ \tl{parā} + \tl{ṛṣati} =
+  \tl{parārṣati}.
+\end{tabbing}
+
+\begin{note}
+  In verbs derived from nouns and beginning with $.r$~\tl{ṛ}, this
+  lengthening of the $a$~\tl{a} of the preposition is optional
+  \panini{6.1.92}.
+
+  In certain compounds $.r.na.m$ \tl{ṛṇaṁ}, \eng{debt}, and $.rta.h$
+  \tl{ṛtaḥ}, \eng{affected}, take vṛddhi instead of guṇa if preceded by
+  $a$~\tl{a}; $pra$ + $.r.na.m$ = $praar.na.m$ \tl{pra} + \tl{ṛṇaṁ} =
+  \tl{prārṇaṁ}, \eng{principal debt}; $.r.na.m$ + $.r.naa.na.m$
+  \tl{ṛṇaṁ} + \tl{ṛṇārṇaṁ} = \tl{ṛṇārṇaṁ}, \eng{debt contracted to
+    liquidate another debt}; $"soka$ + $.rta.h$ = $"sokaarta.h$
+  \tl{śoka} + \tl{ṛtaḥ} = \tl{śokārtaḥ}, \eng{affected by sorrow}.
+  Likewise $uuh&$ \tl{ūh}, the substitute for $vaah&$ \tl{vāh},
+  \eng{carrying}, forms vṛddhi with a preceding $a$~\tl{a} in a
+  compound. Thus $vi"sva$ + $uuha.h$ \tl{viśva} + \tl{ūhaḥ}, the
+  accusative plural of $vi"svavaah&$ \tl{viśvavāh}, is $vi"svauha.h$
+  \tl{viśvauhaḥ} \panini{6.1.89, vārt}.
+\end{note}
+
+\s If the initial $o$~\tl{o} in $o.s.tha.h$ \tl{oṣṭhaḥ}, \eng{lip}, and
+$otu.h$ \tl{otuḥ}, \eng{cat}, is preceded in a compound by $a$ or $aa$
+\tl{\u{\={a}}}, the two vowels may coalesce into $au$~\tl{au} or
+$o$~\tl{o} \panini{6.1.94, vārt}.
+
+\begin{tabbing}
+  Ex.\ \=$adhara$ + $o.s.tha.h$ = $adharau.s.tha.h$ or $adharo.s.tha.h$
+  \tl{adhara} + \tl{oṣṭhaḥ} = \tl{adharauṣṭhaḥ} or \tl{adharoṣṭhaḥ},
+  \eng{the lower lip}.\\
+  \>$sthuula$ + $otu.h$ = $sthuulautu.h$ or $sthuulotu.h$ \tl{sthūla} +
+  \tl{otuḥ} = \tl{sthūlautuḥ} or \tl{sthūlotuḥ}, \eng{a big cat}.
+\end{tabbing}
+
+If $o.s.tha$ \tl{oṣṭha} and $otu$ \tl{otu} are preceded by $a$ or $aa$
+\tl{\u{\={a}}} in the middle of a sentence, they follow the general
+rule.
+
+Ex.\ $mama$ + $o.s.tha.h$ = $mamau.s.tha.h$ \tl{mama} + \tl{oṣṭhaḥ} =
+\tl{mamauṣṭhaḥ}, \eng{my lip}.
+
+\s As irregular compounds the following are mentioned by native
+grammarians:
+
+\begin{quote}
+  $svaira.m$ \tl{svairaṁ}, \eng{wilfulness}, and $svairin&$
+  \tl{svairin}, \eng{self-willed}, from $sva$ + $iira$ \tl{sva} +
+  \tl{īra}.\\
+  $ak.sauhi.nii$ \tl{akṣauhiṇī}, \eng{a complete army}, from $ak.sa$ +
+  $uuhinii$ \tl{akṣa} + \tl{ūhinī}.\\
+  $prau.dha.h$ \tl{prauḍhaḥ}, from $pra$ + $uu.dha.h$ \tl{pra} +
+  \tl{ūḍhaḥ}, \eng{full-grown}.\\
+  $prauha.h$ \tl{prauhaḥ}, \eng{investigation}, from $pra$ + $uuha.h$
+  \tl{pra} + \tl{ūhaḥ}.\\
+  $prai.sa.h$ \tl{praiṣaḥ}, \eng{a certain prayer}, from $pra$ +
+  $e.sa.h$ \tl{pra} + \tl{eṣaḥ}. (See \S\,43.)\\
+  $prai.sya.h$ \tl{praiṣyaḥ}, \eng{a messenger}.
+\end{quote}
+
+\s The final $o$~\tl{o} of indeclinable words is not liable to the rules
+of Sandhi \panini{1.1.15}.
+
+Ex.\ $aho apehi$ \tl{aho apehi}, \eng{Halloo, go away!}
+
+\s Indeclinables consisting of a single vowel, with the exception of
+$aa$~\tl{ā} (\S\,49), are not liable to the rules of Sandhi
+\panini{1.1.14}.
+
+\begin{tabbing}
+  Ex.\ \=$i i.mdra$ \tl{i indra}, \eng{Oh Indra!} $u ume"sa$ \tl{u umeśa},
+  \eng{Oh lord of Umā!}\\
+  \>$aa eva.m$ \tl{ā evaṁ}, \eng{Is it so indeed?}
+\end{tabbing}
+
+\s If $aa$~\tl{ā} (which is written by Indian grammarians $aa"n&$
+\tl{āṅ}) is used as a preposition before verbs, or before nouns in the
+sense of `so far as' (inclusively or exclusively) or `a little,' it is
+liable to the rules of Sandhi.
+
+\begin{tabbing}
+  Ex.\ \=$aa adhyayanaat&$ = $aadhyayanaat&$ \tl{ā adhyayanāt} =
+  \tl{ādhyayanāt}, \eng{until the reading begins}.\\
+  \>$aa ekade"saat&$ = $aikade"saat&$ \tl{ā ekadeśāt} = \tl{aikadeśāt},
+  \eng{to a certain place}.\\
+  \>$aa aalocita.m$ = $aalocita.m$ \tl{ā ālocitaṁ} = \tl{ālocitaṁ},
+  \eng{regarded a little}.\\
+  \>$aa u.s.na.m$ = $o.s.na.m$ \tl{ā uṣṇaṁ} = \tl{oṣṇaṁ}, \eng{a little
+    warm}.\\
+  \>$aa ihi$ = $ehi$ \tl{ā ihi} = \tl{ehi}, \eng{come here}.
+\end{tabbing}
+
+If $aa$~\tl{ā} is used as an interjection, it is not liable to Sandhi,
+according to \S\,48.
+
+Ex.\ $aa eva.m kila tat&$ \tl{ā, evam kila tat}, \eng{Ah,—now I
+  recollect,—it is just so}.
+
+\s Certain particles remain unaffected by Sandhi.
+
+Ex.\ $he i.mdra$ \tl{he indra}, \eng{Oh Indra}.
+
+\s A protracted vowel remains unaffected by Sandhi, because it is always
+supposed to stand at the end of a sentence \panini{6.1.125; 8.2.82}.
+
+Ex.\ $devadattaa3 ehi$ \tl{devadattā3 ehi}, \eng{Devadatta, come here!}
+
+% TODO: Complete this table
+SANDHI TABLE
+
+\section{Combination of Final and Initial Consonants}
+
+\s Here, as in the case of vowels, the rules which apply to the final
+consonants of words following each other in a sentence are equally
+applicable to the final consonants of words following each other in a
+compound. The final consonants of nominal bases too, before the
+so-called \emph{Pada}-terminations ($bhyaa.m$ \tl{bhyāṁ}, $bhi.h$
+\tl{bhiḥ}, $bhya.h$ \tl{bhyaḥ}, $su$ \tl{su}) and before
 
 %%% Local Variables:
 %%% mode: latex
